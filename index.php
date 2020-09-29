@@ -1,7 +1,7 @@
 <?php
 
 include 'header.php';
- $username  = 'Julie';
+ $username  = 'Juliet';
  print f('<h1>Hello %s!</h1>', username);
 
 
