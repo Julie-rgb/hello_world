@@ -1,5 +1,7 @@
 <?php
 
- echo '<h1> Hello World </h1>';
+ $username  = 'Julie';
+ print f('<h1>Hello %s!</h1>', username);
+
 
 ?>
